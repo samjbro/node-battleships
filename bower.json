@@ -1,0 +1,22 @@
+{
+  "name": "nodeships",
+  "description": "",
+  "main": "start.js",
+  "authors": [
+    "samjbro <sjbroughton1@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.3",
+    "pixi.js": "^4.4.3"
+  }
+}
